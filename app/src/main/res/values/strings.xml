@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAnimeApp</string>
+    <string name="failed_to_fetch_anime_details">Failed to fetch anime details</string>
+    <string name="no_internet_connection_please_check_your_connection">No internet connection. Please check your connection.</string>
+</resources>
